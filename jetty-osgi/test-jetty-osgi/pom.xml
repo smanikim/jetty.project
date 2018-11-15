@@ -589,12 +589,6 @@
           <scope>test</scope>
         </dependency>
         <dependency>
-          <groupId>org.conscrypt</groupId>
-          <artifactId>conscrypt-openjdk-uber</artifactId>
-          <version>1.0.0.RC11</version>
-          <scope>test</scope>
-        </dependency>
-        <dependency>
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-alpn-java-server</artifactId>
           <version>${project.version}</version>
